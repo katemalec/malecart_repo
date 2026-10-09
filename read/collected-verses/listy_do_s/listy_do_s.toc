@@ -1,0 +1,12 @@
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{Spis tre\'sci}{3}{}%
+\contentsline {part}{Listy obecne}{5}{}%
+\contentsline {section}{Koronacja}{7}{}%
+\contentsline {section}{Czas wspólny}{8}{}%
+\contentsline {part}{Stare wiersze}{9}{}%
+\contentsline {section}{Porcelanowe ptaki}{11}{}%
+\contentsline {section}{Hermès}{12}{}%
+\contentsline {section}{Oda do Zimnej Marleny}{13}{}%
+\contentsline {section}{Konkubinat}{14}{}%
+\contentsline {section}{Jałowy step}{15}{}%
+\contentsline {section}{Pokuta}{16}{}%

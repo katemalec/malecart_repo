@@ -1,144 +1,153 @@
 \documentclass[10pt, a4paper]{memoir}
-\pagestyle{plain}
+
 \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage[polish]{babel}
-\usepackage{verse}
-\usepackage{secdot}
+
 \usepackage{graphicx}
 \usepackage{caption}
+\usepackage{verse}
+
+\pagestyle{plain}
 \linespread{1.3}
-\sectiondot{section}
-\counterwithout{section}{chapter}
-\setcounter{secnumdepth}{0}
+
+\setsecnumdepth{none}
 
 \title{Po makale.}
 \author{Kate Malec}
 \date{\the\year}
-\usepackage[T1]{fontenc}
 
 \begin{document}
 
 \maketitle
+\newpage
+
 \thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushright}
+    \itshape
+    Z gorącymi pozdrowieniami
+\end{flushright}
+\vfill
+
 \newpage
 \tableofcontents
 \newpage
+
+% --- WIERSZE ---
+
 \section{Życzenie}
+\begin{verse}
 Razu pewnego gnana arogancją\\
 na pół złożoną kartkę\\
-podałam sekretarce.\\
+podałam sekretarce.![\vspace{\baselineskip}]
 
-\noindent
 Chciałam rodzaj ludzki poznać,\\
 zrozumieć istnienie.\\
 W opisie ceny wpisałam \\
-\textit{bez znaczenia}.\\
+\textit{bez znaczenia}.![\vspace{\baselineskip}]
 
-\noindent
 Teraz na pewno zrozumienia mam więcej,\\
 że moje życie też kruche, a koszt przewyższa\\
-zdolność kredytową serca.\\
+zdolność kredytową serca.![\vspace{\baselineskip}]
 
-\noindent
 Niestety, rubryki z cennikiem nie zmienię.\\
 Staram się dalej rozumieć, jak zawsze,\\
 a serce? Wymienię.
-
+\end{verse}
 
 \newpage
 \section{Udało się}
+\begin{verse}
 Udało się,\\
 dopieliście swego.\\
 Lecz nie jestem pewna,\\
 Naprawdę wiecie?\\
-Chcecie tego?\\
+Chcecie tego?![\vspace{\baselineskip}]
 
-\noindent
 Teraz już za późno,\\
 serce upuściłam\\
 po raz kolejny.\\
 Potłukło się w mak drobny,\\
 lecz komu to dzisiaj organ\\
-potrzebny?\\
+potrzebny?![\vspace{\baselineskip}]
 
-\noindent
 Teraz już bez uczuć,\\
 tak, jak uczyliście,\\
 idę przez życie,\\
-a nowe wyrywam jak chwastu liście.\\
+a nowe wyrywam jak chwastu liście.![\vspace{\baselineskip}]
 
-\noindent
 Rozum, tak jak serce,\\
 roztrzaskała myśl ostra\\
 jak skała.\\
 I to nie jedna.\\
-Człowiekiem poległam.\\
+Człowiekiem poległam.![\vspace{\baselineskip}]
 
-\noindent
 Teraz idę już sama dzielnie przez życie,\\
 a wy sobie gratulujcie\\
 zmiany dziecka w czarownicę.
+\end{verse}
 
 \newpage
 \section{Szczapy}
+\begin{verse}
 Mój mąż gustuje w wieszakach\\
 Niestety, ja nigdy nie byłam zbyt dobra\\
-W byciu szczapą.\\
+W byciu szczapą.![\vspace{\baselineskip}]
 
-\noindent
 Martwiąc się o to zgubiłam dwa cale.\\
 Może powiesi mąż na mnie oko,\\
-gdy zrzucę jeszcze kawałek?\\
+gdy zrzucę jeszcze kawałek?![\vspace{\baselineskip}]
 
-\noindent
 Nie można męża obwiniać,\\
 Facet ma dobre geny.\\
 A ja? no cóż, ja jestem przeciętna...\\
-I nie po drodze mi do bycia cienką.\\
+I nie po drodze mi do bycia cienką.
+\end{verse}
 
 \newpage
-
 \begin{figure}[h]
     \centering
-    \includegraphics[width=1.2\textwidth]{img/szczapy-1.jpeg}
+    % Wyśrodkowanie obrazu szerszego niż szerokość kolumny tekstu
+    \makebox[\textwidth]{\includegraphics[width=1.1\textwidth]{img/szczapy-1.jpeg}}
     \caption*{Szczapy I, 80/70 cm, Oil on canvas, 2023}
 \end{figure}
 
 \newpage
 \section{Cienka aż szczęka}
-Moja matka - ona to bywa cienka,\\
+\begin{verse}
+Moja matka -- ona to bywa cienka,\\
 Lecz powód tego odmienny;\\
 Dziadek o twardej szczęce\\
-Wpędził niechcący\\ 
+Wpędził niechcący \\
 za dziecka mamę\\
 w anoreksję.
+\end{verse}
 
 \newpage
-
 \begin{figure}[h]
     \centering
-    \includegraphics[width=1\textwidth]{img/szczapy-2.jpeg}
+    \includegraphics[width=0.9\textwidth]{img/szczapy-2.jpeg}
     \caption*{Szczapy II, 50/50 cm, Oil on canvas, 2023}
 \end{figure}
 
 \newpage
 \section{Nowa runda}
+\begin{verse}
 Dzwonek\\
 nowa runda wybiła\\
 na ringu się spotkamy\\
-czy opuściła siła?\\
+czy opuściła siła?![\vspace{\baselineskip}]
 
-\noindent
 Ja niestety nie mam wyboru\\
 Na ringu stawić się muszę\\
 inaczej z góry popiołem\\
-obsypią moją duszę.\\
+obsypią moją duszę.![\vspace{\baselineskip}]
 
-\noindent
 Tak, rozumiem\\
 trzeba odpoczywać\\
 lecz nie moja to wina,\\
-walkirią się urodziłam.\\
-
+walkirią się urodziłam.
+\end{verse}
 
 \end{document}
