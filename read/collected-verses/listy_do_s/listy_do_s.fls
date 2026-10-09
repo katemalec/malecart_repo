@@ -118,6 +118,12 @@ INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
+INPUT ./assets/ibisy-square.jpg
+INPUT ./assets/ibisy-square.jpg
+INPUT ./assets/ibisy-square.jpg
+INPUT ./assets/ibisy-square.jpg
+OUTPUT listy_do_s.pdf
+INPUT ./assets/ibisy-square.jpg
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
@@ -130,7 +136,6 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-OUTPUT listy_do_s.pdf
 INPUT /usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm
