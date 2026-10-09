@@ -1,12 +1,16 @@
 \babel@toc {polish}{}\relax 
 \contentsline {chapter}{Spis tre\'sci}{3}{}%
 \contentsline {part}{Listy obecne}{5}{}%
-\contentsline {section}{Koronacja}{7}{}%
-\contentsline {section}{Czas wspólny}{8}{}%
-\contentsline {part}{Stare wiersze}{9}{}%
-\contentsline {section}{Porcelanowe ptaki}{11}{}%
-\contentsline {section}{Hermès}{12}{}%
-\contentsline {section}{Oda do Zimnej Marleny}{13}{}%
-\contentsline {section}{Konkubinat}{14}{}%
-\contentsline {section}{Jałowy step}{15}{}%
-\contentsline {section}{Pokuta}{16}{}%
+\contentsline {section}{ $ \frac {dx}{dt} = \sigma (y - x), \hskip 1em\relax \frac {dy}{dt} = x(\rho - z) - y, \hskip 1em\relax \frac {dz}{dt} = xy - \beta z $}{7}{}%
+\contentsline {section}{$\emptyset $}{8}{}%
+\contentsline {section}{$f(f(x)) = f(x)$}{9}{}%
+\contentsline {section}{$(x^2 + y^2)^2 = 2a^2(x^2 - y^2)$}{10}{}%
+\contentsline {section}{ $\vec {u} \perp \vec {v}$ }{11}{}%
+\contentsline {section}{$R_s = \frac {2GM}{c^2}$}{12}{}%
+\contentsline {part}{Stare listy}{13}{}%
+\contentsline {section}{Porcelanowe ptaki}{15}{}%
+\contentsline {section}{Hermès}{16}{}%
+\contentsline {section}{Oda do Zimnej Marleny}{17}{}%
+\contentsline {section}{Konkubinat}{18}{}%
+\contentsline {section}{Pieśń drogi}{19}{}%
+\contentsline {section}{Drgania}{20}{}%
