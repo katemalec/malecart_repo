@@ -7,10 +7,11 @@
 \contentsline {section}{$(x^2 + y^2)^2 = 2a^2(x^2 - y^2)$}{10}{}%
 \contentsline {section}{ $\vec {u} \perp \vec {v}$ }{11}{}%
 \contentsline {section}{$R_s = \frac {2GM}{c^2}$}{12}{}%
-\contentsline {part}{Stare listy}{13}{}%
-\contentsline {section}{Porcelanowe ptaki}{15}{}%
-\contentsline {section}{Hermès}{16}{}%
-\contentsline {section}{Oda do Zimnej Marleny}{17}{}%
-\contentsline {section}{Konkubinat}{18}{}%
-\contentsline {section}{Pieśń drogi}{19}{}%
-\contentsline {section}{Drgania}{20}{}%
+\contentsline {section}{$y = ax^2 + bx + c$}{13}{}%
+\contentsline {part}{Stare listy}{15}{}%
+\contentsline {section}{Porcelanowe ptaki}{17}{}%
+\contentsline {section}{Hermès}{18}{}%
+\contentsline {section}{Oda do Zimnej Marleny}{19}{}%
+\contentsline {section}{Konkubinat}{20}{}%
+\contentsline {section}{Pieśń drogi}{21}{}%
+\contentsline {section}{Drgania}{22}{}%
