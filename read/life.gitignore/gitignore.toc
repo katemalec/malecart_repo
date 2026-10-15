@@ -3,3 +3,5 @@
 \contentsline {section}{Można być inteligentnym, a zarazem chamem i~prostakiem}{4}{}%
 \contentsline {section}{Fuck around and find out}{6}{}%
 \contentsline {section}{Matki i czarownice}{7}{}%
+\contentsline {section}{W otchłani}{9}{}%
+\contentsline {section}{Dzień jak co dzień}{11}{}%
