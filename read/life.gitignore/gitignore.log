@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  15 OCT 2026 13:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  16 OCT 2026 22:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -561,6 +561,24 @@ Package caption Info: End \AtBeginDocument code.
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [2] (./gi
 tignore.toc) [3] [4] [5] [6] [7] [8] [9] [10] [11]
+Overfull \hbox (3.69052pt too wide) in paragraph at lines 137--138
+[]\T1/cmr/m/n/10 Lgnie do mnie. I to nie on je-den. Od za-wsze lgn¦li do mnie. 
+My-±l¦, »e nie szuka
+ []
+
+[12]
+Overfull \hbox (25.4727pt too wide) in paragraph at lines 149--150
+\T1/cmr/m/n/10 tak»e temu wi-ze-run-kowi zbyt-nio uwie-rzy¢. Nie mo»na chcie¢ g
+o ra-to-wa¢ ani mu wspóª-
+ []
+
+
+Overfull \hbox (0.20885pt too wide) in paragraph at lines 149--150
+\T1/cmr/m/n/10 czu¢. Mo»na tylko by¢, wi-dzie¢ i mie¢ ±wia-do-mo±¢ jego ist-nie
+-nia. I tylko o to cho-
+ []
+
+[13]
 \tf@toc=\write4
 \openout4 = `gitignore.toc'.
 
@@ -585,10 +603,10 @@ r/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/
 local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/lo
 cal/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/loca
 l/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on gitignore.pdf (11 pages, 143429 bytes).
+Output written on gitignore.pdf (13 pages, 150098 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
