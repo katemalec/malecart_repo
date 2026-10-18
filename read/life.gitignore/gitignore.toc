@@ -6,3 +6,5 @@
 \contentsline {section}{W otchłani}{9}{}%
 \contentsline {section}{Dzień jak co dzień}{11}{}%
 \contentsline {section}{Białe twarze}{12}{}%
+\contentsline {section}{Ogórki i Witkacy}{14}{}%
+\contentsline {section}{Suki i lody}{16}{}%
