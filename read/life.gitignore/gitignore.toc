@@ -8,3 +8,4 @@
 \contentsline {section}{Białe twarze}{12}{}%
 \contentsline {section}{Ogórki i Witkacy}{14}{}%
 \contentsline {section}{Suki i lody}{16}{}%
+\contentsline {section}{Wszystko ze mną dobrze}{17}{}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  18 OCT 2026 22:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  19 OCT 2026 21:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -572,7 +572,10 @@ Overfull \hbox (1.87213pt too wide) in paragraph at lines 172--173
 a w za-sa-dzie z lekk¡
  []
 
-[14] [15] [16]
+[14] [15] [16] [17]
+Underfull \vbox (badness 4660) has occurred while \output is active []
+
+[18] [19] [20] [21]
 \tf@toc=\write4
 \openout4 = `gitignore.toc'.
 
@@ -585,11 +588,11 @@ L3 programming layer <2020/03/25>
 Here is how much of TeX's memory you used:
  9631 strings out of 467525
  156949 string characters out of 5418982
- 607206 words of memory out of 5000000
+ 609206 words of memory out of 5000000
  38436 multiletter control sequences out of 15000+600000
  638739 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,11n,93p,1208b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,12n,93p,1208b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb>
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></
 usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></us
@@ -597,10 +600,10 @@ r/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/
 local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/lo
 cal/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/loca
 l/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on gitignore.pdf (16 pages, 159224 bytes).
+Output written on gitignore.pdf (21 pages, 172149 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 108 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
