@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1792438664.301 "gitignore.tex" "gitignore.pdf" "gitignore" 1792438665.51985 0
+["pdflatex"] 1792439771.12239 "gitignore.tex" "gitignore.pdf" "gitignore" 1792439773.44307 0
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1136768653 3584 2d666ecf6d466d8b007246bc2f94d9da ""
@@ -85,9 +85,9 @@
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1790144823 5573038 b99aad5e4898a9034e953632f940512b ""
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1790144642 3636776 de057d633c8e40e6b18afe4715799b0c ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "gitignore.aux" 1792438665.34256 1208 8fbe8990d1b034ec593ff4c20efbcfa3 "pdflatex"
-  "gitignore.tex" 1792438664.0881 39449 5013e565086d670dc755fe46fcf70eed ""
-  "gitignore.toc" 1792438665.34572 560 58697fee1ed712789c9e8ca87501965e "pdflatex"
+  "gitignore.aux" 1792439773.08165 1208 8fbe8990d1b034ec593ff4c20efbcfa3 "pdflatex"
+  "gitignore.tex" 1792439770.75699 39442 14e5c4bf5433de0b34e688c273feb0f4 ""
+  "gitignore.toc" 1792439773.08547 560 58697fee1ed712789c9e8ca87501965e "pdflatex"
   (generated)
   "gitignore.aux"
   "gitignore.log"
