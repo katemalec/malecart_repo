@@ -1,0 +1,4 @@
+\babel@toc {polish}{}\relax 
+\contentsline {section}{Pióra}{3}{}%
+\contentsline {section}{Nocne opalanie}{4}{}%
+\contentsline {section}{Jestem tu tylko na chwilę}{5}{}%

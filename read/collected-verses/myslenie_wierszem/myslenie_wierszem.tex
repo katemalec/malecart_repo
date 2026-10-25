@@ -1,0 +1,108 @@
+\documentclass[12pt, a4paper]{memoir}
+\pagestyle{plain}
+
+% Pakiety językowe i kodowanie
+\usepackage[T1]{fontenc}
+\usepackage[polish]{babel}
+\usepackage{microtype}
+
+% Ustawienie stałych marginesów wewnątrz klasy memoir
+\setlrmarginsandblock{35mm}{35mm}{*}
+\setulmarginsandblock{30mm}{30mm}{*}
+\checkandfixthelayout
+
+% Formatowanie sekcji
+\counterwithout{section}{chapter}
+\setcounter{secnumdepth}{0}
+\setsecheadstyle{\raggedright\Large\bfseries}
+
+% Usunięcie wcięcia akapitowego oraz wcięcia w środowisku verse
+\setlength{\parindent}{0pt}
+\renewenvironment{verse}{%
+  \par\vspace{\baselineskip}\raggedright
+}{%
+  \par\vspace{\baselineskip}
+}
+
+\title{Myślenie wierszem}
+\author{Kate Malec}
+\date{\the\year}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+\clearpage
+
+\tableofcontents*
+\clearpage
+
+\section{Pióra}
+
+\begin{verse}
+Patrzą na~mnie ludzie,\\
+patrzą na~mnie ptaki,\\
+pióra gęsto wyrastają\\
+z~mojej twarzoczaszki.\\[\baselineskip]
+Tu kręci się głowa,\\
+tam wywraca oko.\\
+Prosty człowiek gardzi\\
+kobietą ulotną.\\[\baselineskip]
+Ptaki nie~są lepsze\\
+odeszły zawczasu.\\
+\textit{Nie masz wstępu tutaj.}\\
+Nie~przyjmą mnie do~lasu.\\[\baselineskip]
+Siedzę więc na~gzymsie,\\
+pióra w~zębach trzymam.\\
+Może mi to~przejdzie?\\[\baselineskip]
+Zastała mnie zima.
+\end{verse}
+
+\clearpage
+
+\section{Nocne opalanie}
+
+\begin{verse}
+Trzy dni przed pełnią\\
+przyjaciel torbę pakuje.\\
+Samą mnie zostawia,\\
+znika jedyny ratunek.\\[\baselineskip]
+Mówi:\\
+służę Ci wiernie.\\
+Spróbuj teraz przez chwilę\\
+stanąć sama przed lustrem,\\
+myśli własne zrozumieć.\\[\baselineskip]
+Przed snem odsłaniam więc okno\\
+w~blasku księżyca się kładę\\
+blade opalam ciało,\\
+zwoje w~głowie się warzą.\\[\baselineskip]
+Trzy dni po~pełni wraca towarzystwo\\
+a~mnie już nic nie~jest straszne,\\
+widziałam już wszystko.
+\end{verse}
+
+\clearpage
+
+\section{Jestem tu tylko na chwilę}
+
+\begin{verse}
+Jestem tu na~chwilę,\\
+a~tyle tylko zostanę,\\
+by nacieszyć się szczyptę\\
+wodą, słońcem, wiatrem.\\[\baselineskip]
+Krótkie momenty z~Wami\\
+wybieram całkiem świadomie,\\
+pomimo uroków życia\\
+jesteście całkiem jak ludzie.\\[\baselineskip]
+Cenię tu wiele rzeczy,\\
+w~tym towarzystwo złudzeń,\\
+myśli korzeń martwy,\\
+niejeden darmo się trudzi.\\[\baselineskip]
+Nade wszystko jednak\\
+uwielbiam światło odbite\\
+i~cuda jakie wyczynia\\
+w~porannych liściach fikusa.
+\end{verse}
+
+
+\end{document}

@@ -1,7 +1,10 @@
 \babel@toc {polish}{}\relax 
-\contentsline {chapter}{Spis tre\'sci}{3}{}%
-\contentsline {section}{Życzenie}{4}{}%
-\contentsline {section}{Udało się}{5}{}%
+\contentsline {section}{Kwiaty}{4}{}%
+\contentsline {section}{Już dziękuję}{5}{}%
 \contentsline {section}{Szczapy}{6}{}%
-\contentsline {section}{Cienka aż szczęka}{8}{}%
-\contentsline {section}{Nowa runda}{10}{}%
+\contentsline {section}{Cienka aż szczęka}{7}{}%
+\contentsline {section}{Skrawki świata}{8}{}%
+\contentsline {section}{Parzystość}{9}{}%
+\contentsline {section}{Życzenie}{10}{}%
+\contentsline {section}{Udało się}{11}{}%
+\contentsline {section}{Nowa runda}{12}{}%
