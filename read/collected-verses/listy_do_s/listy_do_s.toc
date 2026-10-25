@@ -1,18 +1,16 @@
 \babel@toc {polish}{}\relax 
-\contentsline {chapter}{Spis tre\'sci}{3}{}%
-\contentsline {part}{Listy obecne}{5}{}%
-\contentsline {section}{ $ \frac {dx}{dt} = \sigma (y - x), \hskip 1em\relax \frac {dy}{dt} = x(\rho - z) - y, \hskip 1em\relax \frac {dz}{dt} = xy - \beta z $}{7}{}%
+\contentsline {part}{\partnumberline {I}Listy obecne}{5}{}%
+\contentsline {section}{Układ Lorenza}{7}{}%
 \contentsline {section}{$\emptyset $}{8}{}%
-\contentsline {section}{$f(f(x)) = f(x)$}{9}{}%
-\contentsline {section}{$(x^2 + y^2)^2 = 2a^2(x^2 - y^2)$}{10}{}%
-\contentsline {section}{ $\vec {u} \perp \vec {v}$ }{11}{}%
-\contentsline {section}{$R_s = \frac {2GM}{c^2}$}{12}{}%
-\contentsline {section}{$y = ax^2 + bx + c$}{13}{}%
-\contentsline {section}{$\operatorname {Res}(f, z_0)$}{14}{}%
-\contentsline {part}{Stare listy}{15}{}%
-\contentsline {section}{Porcelanowe ptaki}{17}{}%
-\contentsline {section}{Hermès}{18}{}%
-\contentsline {section}{Oda do Zimnej Marleny}{19}{}%
-\contentsline {section}{Konkubinat}{20}{}%
-\contentsline {section}{Pieśń drogi}{21}{}%
-\contentsline {section}{Drgania}{22}{}%
+\contentsline {section}{f(f(x)) = f(x)}{9}{}%
+\contentsline {section}{Lemniskata Bernoulliego}{10}{}%
+\contentsline {section}{Wektory prostopadłe}{11}{}%
+\contentsline {section}{Promień Schwarzschilda}{12}{}%
+\contentsline {section}{Równanie kwadratowe}{13}{}%
+\contentsline {section}{Residuum}{14}{}%
+\contentsline {section}{Porcelanowe ptaki}{15}{}%
+\contentsline {section}{Hermès}{16}{}%
+\contentsline {section}{Oda do Zimnej Marleny}{17}{}%
+\contentsline {section}{Konkubinat}{18}{}%
+\contentsline {section}{Pieśń drogi}{19}{}%
+\contentsline {section}{Drgania}{20}{}%
