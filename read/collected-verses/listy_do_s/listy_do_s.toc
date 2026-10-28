@@ -8,9 +8,11 @@
 \contentsline {section}{Promień Schwarzschilda}{12}{}%
 \contentsline {section}{Równanie kwadratowe}{13}{}%
 \contentsline {section}{Residuum}{14}{}%
-\contentsline {section}{Porcelanowe ptaki}{15}{}%
-\contentsline {section}{Hermès}{16}{}%
-\contentsline {section}{Oda do Zimnej Marleny}{17}{}%
-\contentsline {section}{Konkubinat}{18}{}%
-\contentsline {section}{Pieśń drogi}{19}{}%
-\contentsline {section}{Drgania}{20}{}%
+\contentsline {section}{Zbiory nigdziegęste}{15}{}%
+\contentsline {part}{\partnumberline {II}Stare listy}{17}{}%
+\contentsline {section}{Porcelanowe ptaki}{19}{}%
+\contentsline {section}{Hermès}{20}{}%
+\contentsline {section}{Oda do Zimnej Marleny}{21}{}%
+\contentsline {section}{Konkubinat}{22}{}%
+\contentsline {section}{Pieśń drogi}{23}{}%
+\contentsline {section}{Drgania}{24}{}%
