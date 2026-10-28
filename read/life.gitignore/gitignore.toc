@@ -13,3 +13,4 @@
 \contentsline {section}{Są takie dni, kiedy strumień płynie płytko}{24}{}%
 \contentsline {section}{Autostrady międzygatunkowe}{27}{}%
 \contentsline {section}{Pełnia}{32}{}%
+\contentsline {section}{Krew, pot, ale bez łez}{35}{}%
