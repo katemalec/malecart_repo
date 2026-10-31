@@ -15,3 +15,4 @@
 \contentsline {section}{Pełnia}{32}{}%
 \contentsline {section}{Krew, pot, ale bez łez}{35}{}%
 \contentsline {section}{Cisza}{37}{}%
+\contentsline {section}{Wszystkich Świętych}{38}{}%
