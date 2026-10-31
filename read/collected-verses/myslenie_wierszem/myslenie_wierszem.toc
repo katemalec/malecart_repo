@@ -1,4 +1,32 @@
 \babel@toc {polish}{}\relax 
-\contentsline {section}{Pióra}{3}{}%
-\contentsline {section}{Nocne opalanie}{4}{}%
-\contentsline {section}{Jestem tu tylko na chwilę}{5}{}%
+\contentsline {section}{Prolog}{3}{}%
+\contentsline {section}{Pióra}{4}{}%
+\contentsline {section}{Nocne opalanie}{5}{}%
+\contentsline {section}{Jestem tu tylko na chwilę}{6}{}%
+\contentsline {section}{Kwiaty}{7}{}%
+\contentsline {section}{Już dziękuję}{8}{}%
+\contentsline {section}{Szczapy}{9}{}%
+\contentsline {section}{Cienka aż szczęka}{10}{}%
+\contentsline {section}{Skrawki świata}{11}{}%
+\contentsline {section}{Parzystość}{12}{}%
+\contentsline {section}{Życzenie}{13}{}%
+\contentsline {section}{Udało się}{14}{}%
+\contentsline {section}{Nowa runda}{15}{}%
+\contentsline {part}{\partnumberline {I}Matematyka miłości}{17}{}%
+\contentsline {section}{Układ Lorenza}{19}{}%
+\contentsline {section}{Zbiór pusty}{20}{}%
+\contentsline {section}{Funkcja idempotentna}{21}{}%
+\contentsline {section}{Lemniskata Bernoulliego}{22}{}%
+\contentsline {section}{Wektory prostopadłe}{23}{}%
+\contentsline {section}{Promień Schwarzschilda}{24}{}%
+\contentsline {section}{Równanie kwadratowe}{25}{}%
+\contentsline {section}{Residuum}{26}{}%
+\contentsline {section}{Zbiory nigdziegęste}{27}{}%
+\contentsline {part}{\partnumberline {II}Stare listy}{29}{}%
+\contentsline {section}{Fraszka AD 2025}{31}{}%
+\contentsline {section}{Porcelanowe ptaki}{32}{}%
+\contentsline {section}{Hermès}{33}{}%
+\contentsline {section}{Oda do Zimnej Marleny}{34}{}%
+\contentsline {section}{Wakacje prezesa}{35}{}%
+\contentsline {section}{Pieśń drogi}{36}{}%
+\contentsline {section}{Drgania}{37}{}%
