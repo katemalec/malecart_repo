@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  31 OCT 2026 09:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  1 NOV 2026 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,8 +597,10 @@ ie_wierszem.toc) [2
 
 ] [28
 
+] [29
 
-] [29] [30] [31] [32
+
+] [30] [31] [32
 
 ] [33
 
@@ -623,7 +625,7 @@ L3 programming layer <2020/03/25>
 Here is how much of TeX's memory you used:
  9323 strings out of 467525
  150636 string characters out of 5418982
- 642072 words of memory out of 5000000
+ 643072 words of memory out of 5000000
  38089 multiletter control sequences out of 15000+600000
  645516 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -640,7 +642,7 @@ texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/te
 xlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texl
 ive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texliv
 e/2026/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on myslenie_wierszem.pdf (37 pages, 201255 bytes).
+Output written on myslenie_wierszem.pdf (37 pages, 203256 bytes).
 PDF statistics:
  187 PDF objects out of 1000 (max. 8388607)
  122 compressed objects within 2 object streams

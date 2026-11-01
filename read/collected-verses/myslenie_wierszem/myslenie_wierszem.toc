@@ -22,6 +22,7 @@
 \contentsline {section}{Równanie kwadratowe}{25}{}%
 \contentsline {section}{Residuum}{26}{}%
 \contentsline {section}{Zbiory nigdziegęste}{27}{}%
+\contentsline {section}{Osobliwości}{28}{}%
 \contentsline {part}{\partnumberline {II}Stare listy}{29}{}%
 \contentsline {section}{Fraszka AD 2025}{31}{}%
 \contentsline {section}{Porcelanowe ptaki}{32}{}%
