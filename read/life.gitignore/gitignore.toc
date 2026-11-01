@@ -16,3 +16,4 @@
 \contentsline {section}{Krew, pot, ale bez łez}{61}{}%
 \contentsline {section}{Cisza}{65}{}%
 \contentsline {section}{Wszystkich Świętych}{66}{}%
+\contentsline {section}{W cieniu roślin życie drga}{71}{}%
