@@ -1,18 +1,18 @@
 \babel@toc {polish}{}\relax 
 \contentsline {chapter}{Spis tre\'sci}{3}{}%
-\contentsline {section}{Można być inteligentnym, a zarazem chamem i~prostakiem}{4}{}%
-\contentsline {section}{Fuck around and find out}{6}{}%
-\contentsline {section}{Matki i czarownice}{7}{}%
-\contentsline {section}{W otchłani}{9}{}%
-\contentsline {section}{Dzień jak co dzień}{11}{}%
-\contentsline {section}{Białe twarze}{12}{}%
-\contentsline {section}{Ogórki i Witkacy}{14}{}%
-\contentsline {section}{Suki i lody}{16}{}%
-\contentsline {section}{Wszystko ze mną dobrze}{17}{}%
-\contentsline {section}{Ciche ego brzegi rwie}{22}{}%
-\contentsline {section}{Są takie dni, kiedy strumień płynie płytko}{24}{}%
-\contentsline {section}{Autostrady międzygatunkowe}{27}{}%
-\contentsline {section}{Pełnia}{32}{}%
-\contentsline {section}{Krew, pot, ale bez łez}{35}{}%
-\contentsline {section}{Cisza}{37}{}%
-\contentsline {section}{Wszystkich Świętych}{38}{}%
+\contentsline {section}{Można być inteligentnym chamem i~prostakiem}{5}{}%
+\contentsline {section}{Fuck around and find out}{8}{}%
+\contentsline {section}{Matki i czarownice}{10}{}%
+\contentsline {section}{W otchłani}{13}{}%
+\contentsline {section}{Dzień jak co dzień}{17}{}%
+\contentsline {section}{Białe twarze}{20}{}%
+\contentsline {section}{Ogórki i Witkacy}{24}{}%
+\contentsline {section}{Suki i lody}{27}{}%
+\contentsline {section}{Wszystko ze mną dobrze}{29}{}%
+\contentsline {section}{Ciche ego brzegi rwie}{38}{}%
+\contentsline {section}{Są takie dni, kiedy strumień płynie płytko}{41}{}%
+\contentsline {section}{Autostrady międzygatunkowe}{46}{}%
+\contentsline {section}{Pełnia}{56}{}%
+\contentsline {section}{Krew, pot, ale bez łez}{61}{}%
+\contentsline {section}{Cisza}{65}{}%
+\contentsline {section}{Wszystkich Świętych}{66}{}%
