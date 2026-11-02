@@ -17,3 +17,4 @@
 \contentsline {section}{Cisza}{65}{}%
 \contentsline {section}{Wszystkich Świętych}{66}{}%
 \contentsline {section}{W cieniu roślin życie drga}{71}{}%
+\contentsline {section}{Powroty}{73}{}%
