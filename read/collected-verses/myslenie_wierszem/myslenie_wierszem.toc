@@ -12,6 +12,7 @@
 \contentsline {section}{Życzenie}{13}{}%
 \contentsline {section}{Udało się}{14}{}%
 \contentsline {section}{Nowa runda}{15}{}%
+\contentsline {section}{Za dziadka}{16}{}%
 \contentsline {part}{\partnumberline {I}Matematyka miłości}{17}{}%
 \contentsline {section}{Układ Lorenza}{19}{}%
 \contentsline {section}{Zbiór pusty}{20}{}%
