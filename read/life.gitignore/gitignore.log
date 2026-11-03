@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  3 NOV 2026 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  3 NOV 2026 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -573,7 +573,13 @@ Underfull \hbox (badness 5119) in paragraph at lines 323--324
 [40] [41] [42] [43] [44] [45] [46] [47] [48] [49]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
-[50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
+[50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
+
+Underfull \hbox (badness 1286) in paragraph at lines 566--567
+[]\T1/cmr/m/n/9 Wspominam czasy, kiedy jesz-cze pró-bo-wa-li-±my co± osi¡-gn¡¢
+ []
+
+[66] [67]
 \tf@toc=\write4
 \openout4 = `gitignore.toc'.
 
@@ -598,10 +604,10 @@ r/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/
 local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/lo
 cal/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/loca
 l/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb>
-Output written on gitignore.pdf (63 pages, 246185 bytes).
+Output written on gitignore.pdf (67 pages, 255245 bytes).
 PDF statistics:
- 244 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
+ 257 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

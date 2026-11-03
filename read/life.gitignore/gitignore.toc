@@ -19,3 +19,4 @@
 \contentsline {section}{W cieniu roślin życie drga}{58}{}%
 \contentsline {section}{Powroty}{59}{}%
 \contentsline {section}{Absurd czyni wolnym}{61}{}%
+\contentsline {section}{Życie codzienne}{64}{}%
