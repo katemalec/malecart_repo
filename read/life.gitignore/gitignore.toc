@@ -20,3 +20,4 @@
 \contentsline {section}{Powroty}{59}{}%
 \contentsline {section}{Absurd czyni wolnym}{61}{}%
 \contentsline {section}{Życie codzienne}{64}{}%
+\contentsline {section}{Kolory nieba}{68}{}%
