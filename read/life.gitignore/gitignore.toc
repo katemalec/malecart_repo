@@ -22,3 +22,4 @@
 \contentsline {section}{Życie codzienne}{64}{}%
 \contentsline {section}{Kolory nieba}{68}{}%
 \contentsline {section}{Czy moja głowa zawiśnie w~alei złych matek?}{70}{}%
+\contentsline {section}{Części rzeczywiste, części urojone}{74}{}%
