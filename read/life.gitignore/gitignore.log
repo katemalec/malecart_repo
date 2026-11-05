@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  5 NOV 2026 19:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  5 NOV 2026 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -590,7 +590,7 @@ Underfull \vbox (badness 1052) has occurred while \output is active []
 [70] [71] [72] [73]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
-[74] [75] [76] [77]
+[74] [75] [76] [77] [78] [79]
 \tf@toc=\write4
 \openout4 = `gitignore.toc'.
 
@@ -618,10 +618,10 @@ al/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local
 exlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/tex
 live/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texli
 ve/2026/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb>
-Output written on gitignore.pdf (77 pages, 299660 bytes).
+Output written on gitignore.pdf (79 pages, 302916 bytes).
 PDF statistics:
- 305 PDF objects out of 1000 (max. 8388607)
- 203 compressed objects within 3 object streams
+ 312 PDF objects out of 1000 (max. 8388607)
+ 208 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
