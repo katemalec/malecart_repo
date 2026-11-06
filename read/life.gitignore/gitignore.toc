@@ -24,3 +24,4 @@
 \contentsline {section}{Czy moja głowa zawiśnie w~alei złych matek?}{70}{}%
 \contentsline {section}{Części rzeczywiste, części urojone}{74}{}%
 \contentsline {section}{Lustra}{78}{}%
+\contentsline {section}{Perfumy na~szambo}{80}{}%
