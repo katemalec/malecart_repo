@@ -25,3 +25,4 @@
 \contentsline {section}{Części rzeczywiste, części urojone}{74}{}%
 \contentsline {section}{Lustra}{78}{}%
 \contentsline {section}{Perfumy na~szambo}{80}{}%
+\contentsline {section}{Jedna wielka szczęśliwa rodzina}{83}{}%
