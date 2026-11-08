@@ -1,3 +1,25 @@
+Na śniadanie,
+do kawy mnie 
+sklonuj.
+
+Widelec wbij,
+śmietaną tłustą 
+polej.
+
+Myśli moje
+podpiszę: 
+Sałatka Opensource.
+
+Skosztuj strumienia 
+niezmąconej świadomości.
+
+Moja jaźń.
+
+Nie zażółcaj,
+już nie gęśla.
+
+-------------------------------------
+
 Lord, forgive me for writing comments and content alternating between Polish and English. For this sin, I am ready to spend a year in an exclusive hell for developers, writing back-end in jQuery. 
 Amen.
 
