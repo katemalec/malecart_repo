@@ -29,3 +29,4 @@
 \contentsline {section}{Brudne myśli}{85}{}%
 \contentsline {section}{Wszystko zostanie w~rodzinie}{88}{}%
 \contentsline {section}{Dziury}{92}{}%
+\contentsline {section}{Szczelność}{96}{}%
