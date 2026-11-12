@@ -31,3 +31,4 @@
 \contentsline {section}{Dziury}{92}{}%
 \contentsline {section}{Szczelność}{96}{}%
 \contentsline {section}{Na talerzu}{100}{}%
+\contentsline {section}{Naleśniki}{103}{}%
