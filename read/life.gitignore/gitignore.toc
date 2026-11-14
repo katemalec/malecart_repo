@@ -33,3 +33,4 @@
 \contentsline {section}{Na talerzu}{100}{}%
 \contentsline {section}{Naleśniki}{103}{}%
 \contentsline {section}{Pod latarnią najciemniej, przy głośniku najciszej}{106}{}%
+\contentsline {section}{Nowe porządki}{109}{}%
