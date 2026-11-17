@@ -37,3 +37,5 @@
 \contentsline {section}{Światło}{111}{}%
 \contentsline {section}{Mafia Island}{115}{}%
 \contentsline {section}{Après nous, le déluge}{117}{}%
+\contentsline {section}{Piąte: kradnij}{121}{}%
+\contentsline {section}{Wielki plan}{126}{}%
