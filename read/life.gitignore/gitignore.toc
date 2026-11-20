@@ -41,3 +41,4 @@
 \contentsline {section}{Wielki plan}{126}{}%
 \contentsline {section}{Po kolana}{132}{}%
 \contentsline {section}{Przepływ}{134}{}%
+\contentsline {section}{$7^k - 2^k = 5m$}{140}{}%
