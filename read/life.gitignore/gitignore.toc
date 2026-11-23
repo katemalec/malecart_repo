@@ -43,3 +43,4 @@
 \contentsline {section}{Przepływ}{135}{}%
 \contentsline {section}{Bóbr, honor, ojczyzna}{141}{}%
 \contentsline {section}{Od kuchni}{147}{}%
+\contentsline {section}{Stworzenie Adama}{156}{}%
