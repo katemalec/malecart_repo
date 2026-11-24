@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  23 NOV 2026 22:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.23)  24 NOV 2026 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -621,7 +621,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [151] [152] [153]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[154] [155] [156] [157] [158]
+[154] [155] [156] [157] [158] [159] [160] [161] [162]
+Underfull \hbox (badness 6808) in paragraph at lines 1594--1595
+[]\T1/cmr/m/n/9 Dzie« ko«-cz¦ utwo-rem \T1/cmr/m/it/9 UNTI-TLED PRE DEMO-1 \T1/
+cmr/m/n/9 oraz
+ []
+
+[163]
 \tf@toc=\write4
 \openout4 = `gitignore.toc'.
 
@@ -652,10 +658,10 @@ texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/te
 xlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texl
 ive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texliv
 e/2026/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb>
-Output written on gitignore.pdf (158 pages, 465684 bytes).
+Output written on gitignore.pdf (163 pages, 474616 bytes).
 PDF statistics:
- 580 PDF objects out of 1000 (max. 8388607)
- 390 compressed objects within 4 object streams
+ 597 PDF objects out of 1000 (max. 8388607)
+ 401 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
