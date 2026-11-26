@@ -46,3 +46,4 @@
 \contentsline {section}{Stworzenie Adama}{156}{}%
 \contentsline {section}{Ciąg dalszy następuje}{159}{}%
 \contentsline {section}{Lose it all. Rebuild. Repeat.}{164}{}%
+\contentsline {section}{Na przypale albo wcale}{169}{}%
