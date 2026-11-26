@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1795715351.43364 "gitignore.tex" "gitignore.pdf" "gitignore" 1795715353.31593 0
+["pdflatex"] 1795718003.66954 "gitignore.tex" "gitignore.pdf" "gitignore" 1795718006.5177 0
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecbx0900.tfm" 1136768653 3584 1a7de6c99457381c64abc1a7c545505f ""
@@ -84,6 +84,12 @@
   "/usr/local/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1279039959 678 4792914a8f45be57bb98413425e4c7af ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/memoir/mem9.clo" 1691524400 4307 9105bd17dd7d05a447d23b3e5b44cd02 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/memoir/memoir.cls" 1762290581 383325 4d48cca3bb743837b110033a9bef8975 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/microtype/microtype-pdftex.def" 1772383374 49656 1c61dbb6f95479ba3d6c0033b53590e2 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/microtype/microtype.cfg" 1772383374 27642 f0cea12315babf4d40608f4eeb5c8458 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/microtype/microtype.sty" 1772383374 102845 043c56602c7d94c8a716319df1af5479 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/microtype/mt-cmr.cfg" 1772226603 22906 2122f73c0e7dc828f24240c2422dfe25 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/microtype/mt-msa.cfg" 1772226603 5929 2b35ae0f0fb46984dfffa2bc9d09de5c ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/microtype/mt-msb.cfg" 1772226603 5594 992ef5c3f8fd1168bb7101a957333065 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/tools/array.sty" 1761946296 15651 9d7c62df82cb29a555c00550babfe364 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/tools/dcolumn.sty" 1761946296 2758 45e23cbfca71d005129508736d6a89ec ""
@@ -96,9 +102,9 @@
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1790144823 5573038 b99aad5e4898a9034e953632f940512b ""
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1790144642 3636776 de057d633c8e40e6b18afe4715799b0c ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "gitignore.aux" 1795715353.1098 4660 e661301b869896854d2a049a8619cfd5 "pdflatex"
-  "gitignore.tex" 1795715349.32098 250178 e87b746f0bf793cf71e8278f46b57c6e ""
-  "gitignore.toc" 1795715353.11343 2492 5bedd9c472db76b4ba2c67d9ac44b3fe "pdflatex"
+  "gitignore.aux" 1795718006.2325 4660 e661301b869896854d2a049a8619cfd5 "pdflatex"
+  "gitignore.tex" 1795718003.33838 249382 bcb77abe129a584a44c6f01ad869ab81 ""
+  "gitignore.toc" 1795718006.23748 2492 5bedd9c472db76b4ba2c67d9ac44b3fe "pdflatex"
   (generated)
   "gitignore.aux"
   "gitignore.log"
