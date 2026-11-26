@@ -1,48 +1,48 @@
 \babel@toc {polish}{}\relax 
 \contentsline {chapter}{Spis tre\'sci}{3}{}%
 \contentsline {section}{Można być inteligentnym chamem i~prostakiem}{6}{}%
-\contentsline {section}{Fuck around and find out}{8}{}%
-\contentsline {section}{Matki i~czarownice}{9}{}%
-\contentsline {section}{W~otchłani}{11}{}%
-\contentsline {section}{Dzień jak co dzień}{14}{}%
-\contentsline {section}{Białe twarze}{16}{}%
-\contentsline {section}{Ogórki i~Witkacy}{20}{}%
-\contentsline {section}{Suki i~lody}{22}{}%
-\contentsline {section}{Wszystko ze mną dobrze}{24}{}%
-\contentsline {section}{Ciche ego brzegi rwie}{31}{}%
-\contentsline {section}{Są takie dni, kiedy strumień płynie płytko}{34}{}%
-\contentsline {section}{Autostrady międzygatunkowe}{38}{}%
-\contentsline {section}{Pełnia}{45}{}%
-\contentsline {section}{Krew, pot, ale bez łez}{49}{}%
-\contentsline {section}{Cisza}{52}{}%
-\contentsline {section}{Wszystkich Świętych}{53}{}%
-\contentsline {section}{W~cieniu roślin życie drga}{57}{}%
-\contentsline {section}{Powroty}{58}{}%
-\contentsline {section}{Absurd czyni wolnym}{60}{}%
-\contentsline {section}{Życie codzienne}{63}{}%
-\contentsline {section}{Kolory nieba}{67}{}%
-\contentsline {section}{Czy moja głowa zawiśnie w~alei złych matek?}{69}{}%
-\contentsline {section}{Części rzeczywiste, części urojone}{73}{}%
-\contentsline {section}{Lustra}{77}{}%
-\contentsline {section}{Perfumy na~szambo}{79}{}%
-\contentsline {section}{Jedna wielka szczęśliwa rodzina}{82}{}%
-\contentsline {section}{Brudne myśli}{84}{}%
-\contentsline {section}{Wszystko zostanie w~rodzinie}{87}{}%
-\contentsline {section}{Dziury}{91}{}%
-\contentsline {section}{Szczelność}{95}{}%
-\contentsline {section}{Na talerzu}{99}{}%
-\contentsline {section}{Naleśniki}{102}{}%
-\contentsline {section}{Pod latarnią najciemniej, przy głośniku najciszej}{105}{}%
-\contentsline {section}{Nowe porządki}{108}{}%
-\contentsline {section}{Światło}{110}{}%
-\contentsline {section}{Mafia Island}{114}{}%
-\contentsline {section}{Après nous, le déluge}{116}{}%
-\contentsline {section}{Piąte: kradnij}{120}{}%
-\contentsline {section}{Wielki plan}{125}{}%
-\contentsline {section}{Po kolana}{131}{}%
-\contentsline {section}{Przepływ}{133}{}%
-\contentsline {section}{Bóbr, honor, ojczyzna}{139}{}%
-\contentsline {section}{Od kuchni}{145}{}%
-\contentsline {section}{Stworzenie Adama}{154}{}%
-\contentsline {section}{Ciąg dalszy następuje}{157}{}%
-\contentsline {section}{Lose it all. Rebuild. Repeat.}{162}{}%
+\contentsline {section}{Fuck around and find out}{9}{}%
+\contentsline {section}{Matki i~czarownice}{10}{}%
+\contentsline {section}{W~otchłani}{13}{}%
+\contentsline {section}{Dzień jak co dzień}{16}{}%
+\contentsline {section}{Białe twarze}{18}{}%
+\contentsline {section}{Ogórki i~Witkacy}{22}{}%
+\contentsline {section}{Suki i~lody}{24}{}%
+\contentsline {section}{Wszystko ze mną dobrze}{26}{}%
+\contentsline {section}{Ciche ego brzegi rwie}{33}{}%
+\contentsline {section}{Są takie dni, kiedy strumień płynie płytko}{36}{}%
+\contentsline {section}{Autostrady międzygatunkowe}{40}{}%
+\contentsline {section}{Pełnia}{47}{}%
+\contentsline {section}{Krew, pot, ale bez łez}{51}{}%
+\contentsline {section}{Cisza}{54}{}%
+\contentsline {section}{Wszystkich Świętych}{55}{}%
+\contentsline {section}{W~cieniu roślin życie drga}{59}{}%
+\contentsline {section}{Powroty}{60}{}%
+\contentsline {section}{Absurd czyni wolnym}{62}{}%
+\contentsline {section}{Życie codzienne}{65}{}%
+\contentsline {section}{Kolory nieba}{69}{}%
+\contentsline {section}{Czy moja głowa zawiśnie w~alei złych matek?}{71}{}%
+\contentsline {section}{Części rzeczywiste, części urojone}{75}{}%
+\contentsline {section}{Lustra}{79}{}%
+\contentsline {section}{Perfumy na~szambo}{81}{}%
+\contentsline {section}{Jedna wielka szczęśliwa rodzina}{84}{}%
+\contentsline {section}{Brudne myśli}{86}{}%
+\contentsline {section}{Wszystko zostanie w~rodzinie}{89}{}%
+\contentsline {section}{Dziury}{93}{}%
+\contentsline {section}{Szczelność}{97}{}%
+\contentsline {section}{Na talerzu}{101}{}%
+\contentsline {section}{Naleśniki}{104}{}%
+\contentsline {section}{Pod latarnią najciemniej, przy głośniku najciszej}{107}{}%
+\contentsline {section}{Nowe porządki}{110}{}%
+\contentsline {section}{Światło}{112}{}%
+\contentsline {section}{Mafia Island}{116}{}%
+\contentsline {section}{Après nous, le déluge}{118}{}%
+\contentsline {section}{Piąte: kradnij}{122}{}%
+\contentsline {section}{Wielki plan}{127}{}%
+\contentsline {section}{Po kolana}{133}{}%
+\contentsline {section}{Przepływ}{135}{}%
+\contentsline {section}{Bóbr, honor, ojczyzna}{141}{}%
+\contentsline {section}{Od kuchni}{147}{}%
+\contentsline {section}{Stworzenie Adama}{156}{}%
+\contentsline {section}{Ciąg dalszy następuje}{159}{}%
+\contentsline {section}{Lose it all. Rebuild. Repeat.}{164}{}%
